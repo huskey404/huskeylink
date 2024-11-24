@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "#*#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:string"
+    },
+    "*": {
+      "item": "minecraft:copper_ingot"
+    }
+  },
+  "result": {
+    "id": "huskeylink:copper_wire",
+    "count": 8
+  },
+  "show_notification": true
+}
+
+// FIX PLEASE
